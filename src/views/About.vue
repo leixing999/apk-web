@@ -1,6 +1,7 @@
 <template>
   <div class="about">
     <h1>element-ui 按钮控件</h1>
+
     <el-row>
       <el-button>默认按钮</el-button>
       <el-button type="primary">主要按钮</el-button>
