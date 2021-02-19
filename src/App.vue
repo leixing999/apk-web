@@ -4,7 +4,11 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
       <router-link to="/layout">Layout</router-link>|
-      <router-link to="/container">container</router-link>
+      <router-link to="/container">container</router-link>|
+      <router-link to="/form">Form</router-link>|
+      <router-link to="/inlineform">inlineform</router-link>|
+      <router-link to="/positionFrom">positionFrom</router-link>
+
 
     </div>
     <router-view/>
@@ -16,7 +20,7 @@
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  text-align: left;
   color: #2c3e50;
 }
 
